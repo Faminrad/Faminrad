@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faminrad
-- 👀 I’m interested in Marine biology espacially Coral reefs microbiome.
-- 🌱 I’m currently doing my PhD thesis 
+- 👀 I’m interested in Coral reefs microbiome.
+- 🌱 I’m currently working on my PhD thesis, which focuses on the identification of Bacteria hosted within Coral reefs tissue and Mucus.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Faminrad@gmail.com
 - 😄 Pronouns: ...
